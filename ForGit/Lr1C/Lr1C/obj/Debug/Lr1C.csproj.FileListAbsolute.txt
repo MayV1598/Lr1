@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ИСРПО\Lr1C\Lr1C\bin\Debug\Lr1C.exe.config
+C:\Users\user\Desktop\ИСРПО\Lr1C\Lr1C\bin\Debug\Lr1C.exe
+C:\Users\user\Desktop\ИСРПО\Lr1C\Lr1C\bin\Debug\Lr1C.pdb
+C:\Users\user\Desktop\ИСРПО\Lr1C\Lr1C\obj\Debug\Lr1C.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ИСРПО\Lr1C\Lr1C\obj\Debug\Lr1C.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ИСРПО\Lr1C\Lr1C\obj\Debug\Lr1C.exe
+C:\Users\user\Desktop\ИСРПО\Lr1C\Lr1C\obj\Debug\Lr1C.pdb
